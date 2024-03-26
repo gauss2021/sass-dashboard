@@ -1,0 +1,1 @@
+console.log("Le js a bien ete chargee");
